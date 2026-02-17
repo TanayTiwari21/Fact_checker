@@ -2,22 +2,8 @@
 
 A minimal AI-powered fact checker that verifies claims using Google Gemini API and Tavily search. Built with React, Flask, and Supabase.
 
-## 📚 Quick Navigation
-
-- **[COMMANDS.md](COMMANDS.md)** - All commands in one place
-- **[INTERVIEW_PREP.md](INTERVIEW_PREP.md)** - Study guide for interviews
-- **[QUICKSTART.md](QUICKSTART.md)** - Get running in 5 minutes
-- **[SUPABASE_SETUP.md](SUPABASE_SETUP.md)** - Fix "table not found" errors
-- **[TROUBLESHOOTING.md](TROUBLESHOOTING.md)** - Common issues & solutions
-
-## Features
-
-- ✅ AI-powered fact checking using Google Gemini
-- 🔍 Web search integration with Tavily
-- 💾 Store fact-check history in Supabase (PostgreSQL)
-- 📱 Clean and responsive React UI
-- 🚀 Simple REST API with Flask
-
+## DEPLOYED LIVE LINK
+[Live link](https://fact-checker-4iby.vercel.app/)
 ## Tech Stack
 
 ### Frontend
